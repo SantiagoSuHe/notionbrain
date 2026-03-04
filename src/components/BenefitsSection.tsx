@@ -59,7 +59,7 @@ const BenefitsSection = () => {
               <div className="relative transform hover:scale-[1.02] transition-transform duration-500">
                 <img 
                   src="/2.png"
-                  alt="GTD Second Brain Template - Calendar integration and planning capabilities"
+                  alt="NotionBrain Template - Calendar integration and planning capabilities"
                   className="w-full rounded-2xl"
                 />
                 <div className="absolute inset-0 bg-gradient-to-tr from-orange-900/10 to-transparent rounded-2xl"></div>

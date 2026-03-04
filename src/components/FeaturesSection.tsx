@@ -37,7 +37,7 @@ const FeaturesSection = () => {
                 <div className="relative transform hover:scale-[1.02] transition-transform duration-500">
                   <img 
                     src="/3.png"
-                    alt="GTD Second Brain - Calendar integration and planning capabilities"
+                    alt="NotionBrain - Calendar integration and planning capabilities"
                     className="w-full rounded-2xl"
                   />
                 </div>
@@ -83,7 +83,7 @@ const FeaturesSection = () => {
                 <div className="relative transform hover:scale-[1.02] transition-transform duration-500">
                   <img 
                     src="/4.png"
-                    alt="GTD Second Brain - OKR tracking and goal achievement system"
+                    alt="NotionBrain - OKR tracking and goal achievement system"
                     className="w-full rounded-2xl"
                   />
                 </div>

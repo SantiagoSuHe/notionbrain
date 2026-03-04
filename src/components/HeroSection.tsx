@@ -60,7 +60,7 @@ const HeroSection = () => {
             <div className="relative transform hover:scale-[1.02] transition-transform duration-500">
               <img 
                 src="/Cover.png"
-                alt="GTD Second Brain Notion Template - Complete productivity dashboard"
+                alt="NotionBrain Notion Template - Complete productivity dashboard"
                 className="w-full rounded-2xl"
               />
             </div>

@@ -75,7 +75,7 @@ const Footer = () => {
             <div className="flex items-center space-x-2 mb-4">
               <img 
                 src="/icon (1).png" 
-                alt="GTD Second Brain Logo" 
+                alt="NotionBrain Logo" 
                 className="h-6 w-6"
               />
               <span className="text-xl font-semibold text-white">{footer.logo}</span>

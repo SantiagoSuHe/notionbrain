@@ -26,7 +26,7 @@ const VideoSection = () => {
               <div className="relative aspect-video rounded-xl overflow-hidden bg-gray-900">
                 <iframe
                   src="https://www.youtube.com/embed/ERrvxNfzmu4?si=vMWZy4ZSj-LSY11z"
-                  title="GTD Second Brain Template Walkthrough"
+                  title="NotionBrain Template Walkthrough"
                   className="absolute inset-0 w-full h-full"
                   frameBorder="0"
                   allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"

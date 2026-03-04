@@ -30,7 +30,7 @@ const Header = () => {
           <div className="flex items-center space-x-2">
             <img 
               src="/icon (1).png" 
-              alt="GTD Second Brain Logo" 
+              alt="NotionBrain Logo" 
               className="h-8 w-8"
             />
             <span className="text-xl font-semibold text-gray-900">{header.logo}</span>
