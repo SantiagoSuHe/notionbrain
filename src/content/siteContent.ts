@@ -1,39 +1,39 @@
 export const siteContent = {
   // Site Meta
   meta: {
-    title: "GTD Second Brain - Your Complete Notion Life Planner",
-    description: "A powerful one-page Notion template based on the proven GTD methodology. Organize your life pillars, OKRs, projects, and tasks in one integrated dashboard."
+    title: "NotionBrain - The Vertical Alignment System",
+    description: "Stop letting your best ideas die in the noise of daily life. NotionBrain is the single-page alignment engine that transforms mental chaos into a clear, navigable path to success."
   },
 
   // Header
   header: {
-    logo: "GTD Second Brain",
+    logo: "NotionBrain",
     navigation: [
-      { label: "Features", href: "#features" },
-      { label: "Benefits", href: "#benefits" },
+      { label: "The Problem", href: "#benefits" },
+      { label: "The System", href: "#features" },
       { label: "Pricing", href: "#pricing" },
       { label: "FAQ", href: "#faq" }
     ],
-    ctaButton: "Get Template",
+    ctaButton: "Reclaim My Focus Now",
     ctaUrl: "https://santisuhe.gumroad.com/l/cnobk"
   },
 
   // Hero Section
   hero: {
-    headline: "Your Complete Second Brain in One Page",
-    subheadline: "A powerful Notion template based on the proven GTD (Getting Things Done) methodology. Organize your life pillars, OKRs, projects, and tasks in one integrated dashboard for maximum productivity.",
-    primaryCta: "Get the Template",
+    headline: "Bridge the Gap Between Your Dreams and Daily Execution.",
+    subheadline: "Stop letting your best ideas die in the noise of daily life. NotionBrain is the single-page alignment engine that transforms mental chaos into a clear, navigable path to success.",
+    primaryCta: "Reclaim My Focus Now",
     primaryCtaUrl: "https://santisuhe.gumroad.com/l/cnobk",
-    secondaryCta: "Learn More",
+    secondaryCta: "How Alignment Works",
     secondaryCtaUrl: "#features",
     features: [
-      "GTD methodology",
-      "One-page design", 
-      "Instant setup"
+      "Vertical Alignment System",
+      "Zero-Friction Design",
+      "Lifetime Access"
     ],
     image: {
       src: "https://images.pexels.com/photos/5053849/pexels-photo-5053849.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
-      alt: "GTD Second Brain Notion Template - Organized workspace"
+      alt: "NotionBrain Template - Organized workspace"
     },
     rating: {
       score: "4.9/5 Rating",
@@ -41,114 +41,109 @@ export const siteContent = {
     }
   },
 
-  // Features Section
+  // Features Section (The Engine + The Plan)
   features: {
-    headline: "Everything You Need in One Integrated Dashboard",
-    subheadline: "Unlike overwhelming multi-page templates, our single-page design deploys the full potential of GTD methodology for maximum usability and efficiency.",
+    headline: "Your Digital Second Brain: Built for Execution, Not Just Storage.",
+    subheadline: "NotionBrain is the bridge. It’s a proven, single-page hierarchy that forces your daily actions to answer to your highest values. When you trust your system, your brain stops remembering and starts creating.",
     items: [
       {
-        title: "Life Pillars",
-        description: "Define your focus areas and prioritize what matters most in your personal and professional life."
+        title: "Vertical Alignment",
+        description: "Every task is tied to a project, every project to an OKR, and every OKR to a Life Pillar. If it doesn't move the needle, it doesn't stay."
       },
       {
-        title: "OKRs System", 
-        description: "Set objectives and track key results effortlessly. Always stay aligned with your bigger goals using proven OKR methodology."
+        title: "Total Mental Offloading",
+        description: "A secure, zero-friction hub to capture every thought instantly. Clear your head and focus entirely on the task at hand."
       },
       {
-        title: "Project Management",
-        description: "Organize and manage all your projects in detail, from work assignments to personal endeavors."
+        title: "Unified Command Center",
+        description: "Your entire life's strategic path begins from one main dashboard, cleanly organized with focused subpages to keep distraction at bay."
       },
       {
-        title: "Task Organization",
-        description: "Keep track of every task—no matter how small—so nothing gets overlooked or slips through the cracks."
+        title: "Step 1: Anchor Your Pillars",
+        description: "Define your core values and life pillars. This is your \"True North\" that filters out the noise."
       },
       {
-        title: "Smart Task Views",
-        description: "View tasks by today, weekly planning, objectives alignment, and free time activities for optimal focus."
+        title: "Step 2: Map Your Strategy",
+        description: "Translate your pillars into measurable OKRs and Projects. Turn \"someday\" into a visible roadmap."
       },
       {
-        title: "Customizable Tools",
-        description: "Includes journal, book notes, and personal finances sections, with more integrations added over time."
+        title: "Step 3: Execute with Focus",
+        description: "Use the Daily Execution View to tackle only what matters today. Watch your dreams become your reality, one aligned task at a time."
       }
     ]
   },
 
-  // Benefits Section
+  // Benefits Section (The Overwhelm / Problem)
   benefits: {
-    headline: "Based on the Proven GTD Methodology",
-    subheadline: "This template implements Getting Things Done principles that have helped countless professionals and students achieve their goals by staying organized and focused.",
+    headline: "The Mental Burden You Weren't Meant to Carry",
+    subheadline: "You have the drive. You have the goals. But you’re drowning in a sea of disconnected tasks, forgotten ideas, and constant \"mental noise.\" This isn't just \"being busy\"—it's a system failure.",
     items: [
       {
-        title: "Maximum Efficiency",
-        description: "Save time and reduce stress with everything organized in one page. No more jumping between multiple dashboards."
+        title: "Chronic Stress",
+        description: "That nagging fear that something important is slipping through the cracks."
       },
       {
-        title: "Achieve Your Goals",
-        description: "Stay on track with integrated OKRs and task alignment. Nothing slips through the cracks, helping you reach objectives faster."
+        title: "Decision Fatigue",
+        description: "Spending your best energy wondering what to do instead of actually doing it."
       },
       {
-        title: "Crystal Clear Focus",
-        description: "Get a clear view of your goals, projects, and daily tasks. The GTD methodology ensures you always know what to work on next."
+        title: "The \"Busy-ness\" Trap",
+        description: "Working hard all day only to realize you haven't moved closer to your real dreams."
       }
     ],
     image: {
       src: "/Cover.png",
-      alt: "GTD Second Brain Template - Complete productivity system overview"
+      alt: "NotionBrain Template - Complete productivity system overview"
     },
     socialProof: {
-      title: "Trusted GTD System",
-      description: "Join professionals and students using this proven methodology for work and personal success."
+      title: "Join the Movement",
+      description: "Join 500+ ambitious individuals who have offloaded their mental burden and regained control."
     }
   },
 
   // Pricing Section
   pricing: {
-    headline: "Your Complete Second Brain System",
-    subheadline: "Get lifetime access to the complete GTD-based template with no subscription fees. Perfect for professionals and students alike.",
+    headline: "Stop Dreaming. Start Executing.",
+    subheadline: "Don't spend another day feeling like you're running in place. Reclaim your mental bandwidth and build the system that supports your highest ambitions.",
     plan: {
-      name: "GTD Second Brain Complete",
+      name: "NotionBrain: The Alignment Engine",
       description: "Everything you need in one powerful template",
       price: "$29",
-      period: "one-time",
-      badge: "GTD Methodology",
-      cta: "Get Instant Access",
+      period: "one-time payment",
+      badge: "Lifetime Access",
+      cta: "Build My Second Brain Today",
       ctaUrl: "https://santisuhe.gumroad.com/l/cnobk",
       features: [
-        "Complete one-page Notion template",
-        "Life Pillars organization system", 
-        "OKRs (Objectives & Key Results) tracking",
-        "Integrated project management",
-        "Smart task views (Today, Weekly, by Objective, Free Time)",
-        "Journal, book notes & personal finances sections",
-        "Customizable tool integrations",
-        "Based on proven GTD methodology",
-        "Free lifetime updates",
-        "Mobile and desktop compatible"
+        "One-Time Payment: No subscriptions, ever.",
+        "Lifetime Updates: Get every improvement for free.",
+        "Risk Reversal: Join hundreds who transformed their productivity.",
+        "The full Vertical Alignment hierarchy (Pillars -> OKRs -> Projects -> Tasks).",
+        "Optimized for Mobile, Tablet, and Desktop."
       ]
     }
   },
 
   // Testimonials Section
   testimonials: {
-    headline: "What GTD Users Say",
-    subheadline: "Join professionals and students who've transformed their productivity with our GTD-based system.",
+    headline: "Social Proof",
+    subheadline: "See how NotionBrain is changing how ambitious individuals execute their goals.",
     items: [
       {
-        content: "Finally, a template that actually implements GTD properly! Having everything on one page makes it so much easier to stay focused and get things done.",
-        author: "Sarah Martinez",
-        role: "Project Manager",
+        content: "I finally see the connection between my daily grind and my long-term dreams. NotionBrain didn't just organize my tasks; it gave my time a purpose.",
+        author: "Alex R.",
+        role: "Creative Director",
         image: "/sarah-martinez.png"
       },
       {
-        content: "I've tried countless productivity systems, but this GTD template is the first one that actually stuck. The OKR integration is brilliant for staying aligned with my goals.",
-        author: "David Chen", 
-        role: "Software Engineer",
+        content: "The mental relief was instant. I stopped worrying about 'what's next' because the system already knows. I'm actually finishing projects now.",
+        author: "Jordan M.",
+        role: "Freelance Developer",
         image: "https://images.pexels.com/photos/1222271/pexels-photo-1222271.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
       },
       {
-        content: "As a student juggling multiple projects, this template has been a game-changer. Nothing falls through the cracks anymore, and I'm actually achieving my academic goals.",
-        author: "Emma Thompson",
-        role: "Graduate Student", 
+        content: "I’ve tried every app. This is the only one that feels like a cohesive system rather than just a digital bucket for my stress.",
+        author: "Sarah K.",
+        role: "Graduate Student",
         image: "https://images.pexels.com/photos/733872/pexels-photo-733872.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
       }
     ]
@@ -157,71 +152,60 @@ export const siteContent = {
   // FAQ Section
   faq: {
     headline: "Frequently Asked Questions",
-    subheadline: "Everything you need to know about the GTD Second Brain template.",
+    subheadline: "Get clarity before you buy.",
     items: [
       {
-        question: "What is the GTD methodology and why is it effective?",
-        answer: "GTD (Getting Things Done) is a proven productivity methodology created by David Allen. It helps you capture, organize, and execute tasks systematically, ensuring nothing falls through the cracks while maintaining focus on what matters most."
+        question: "How does this \"align\" my life?",
+        answer: "NotionBrain is built on a strict hierarchy: Tasks belong to Projects, Projects belong to OKRs, and OKRs belong to your Life Pillars. It forces you to see if your daily work is actually building the life you want."
       },
       {
-        question: "Why is this template designed as one page instead of multiple pages?",
-        answer: "Unlike overwhelming multi-page templates, our single-page design deploys the full potential of GTD methodology for maximum usability and efficiency. You can see everything at a glance without losing context or getting distracted by navigation."
+        question: "Why is \"Mental Liberation\" the main benefit?",
+        answer: "Your brain is for having ideas, not holding them. By offloading the details to a trusted system, you reduce cortisol levels and free up the \"RAM\" in your head for creativity and problem-solving."
       },
       {
-        question: "What's included in the integrated dashboard?",
-        answer: "The dashboard includes Today's Tasks, Weekly Tasks, Tasks by Objective, and Tasks for Free Time views. You'll also get Life Pillars, OKRs tracking, project management, and customizable tool sections including journal, book notes, and personal finances."
+        question: "Is it hard to set up?",
+        answer: "Not at all. We provide a 1-minute setup guide. If you can type and drag-and-drop, you can align your life with NotionBrain."
       },
       {
-        question: "Do I need to pay for Notion to use this template?",
-        answer: "Notion offers a free plan that works perfectly with our template for individual use. The template is fully compatible with both free and paid Notion accounts."
-      },
-      {
-        question: "Is this suitable for both work and personal use?",
-        answer: "Absolutely! This template is perfect for professionals managing work projects and students organizing academic goals. The GTD methodology works for any aspect of life, making it incredibly versatile."
-      },
-      {
-        question: "How do I receive the template after purchase?",
-        answer: "After purchase, you'll instantly receive an email with a link to duplicate the template into your Notion workspace. Setup takes just minutes, and you can start organizing immediately."
-      },
-      {
-        question: "Will you add more tool integrations over time?",
-        answer: "Yes! While the template already includes journal, book notes, and personal finances sections, we continuously add more integrations and improvements. All updates are included with your purchase."
+        question: "Do I need a paid Notion account?",
+        answer: "No. NotionBrain works perfectly with the Free version of Notion for life."
       }
     ],
     support: {
-      text: "Still have questions about the GTD methodology or template?",
-      link: "mailto:support@gtdsecondbrain.com",
+      text: "Still have questions about NotionBrain?",
+      link: "mailto:support@notionbrain.com",
       linkText: "Contact our support team →"
     }
   },
 
   // Newsletter Section
   newsletter: {
-    headline: "Get GTD Tips and Template Updates",
-    subheadline: "Join our newsletter for productivity insights, GTD methodology tips, and exclusive template updates.",
+    headline: "Optimization & Tips",
+    subheadline: "Get weekly insights on how to align your execution with your biggest dreams.",
     cta: "Subscribe",
     thankYou: {
-      title: "Welcome to the GTD community!",
-      message: "Check your inbox for productivity tips and special offers."
+      title: "Welcome aboard!",
+      message: "Check your inbox for your first alignment insights."
     },
     privacy: "We respect your privacy. Unsubscribe at any time."
   },
 
   // Footer
   footer: {
-    logo: "GTD Second Brain",
-    description: "A powerful one-page Notion template based on the proven GTD methodology for maximum productivity.",
+    logo: "NotionBrain",
+    description: "Bridge the gap between your dreams and daily execution.",
     social: [
       { platform: "Twitter", href: "https://x.com/santisuhe" },
       { platform: "Email", href: "#" }
     ],
     links: {
       product: [
-        { label: "Features", href: "#features" },
+        { label: "The Problem", href: "#benefits" },
+        { label: "The System", href: "#features" },
         { label: "Pricing", href: "#pricing" },
         { label: "FAQ", href: "#faq" }
       ]
     },
-    copyright: `© ${new Date().getFullYear()} GTD Second Brain. All rights reserved.`
+    copyright: `© ${new Date().getFullYear()} NotionBrain. Bridge the gap.`
   }
 };
