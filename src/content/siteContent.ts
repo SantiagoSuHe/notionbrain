@@ -21,15 +21,15 @@ export const siteContent = {
   // Hero Section
   hero: {
     headline: "Bridge the Gap Between Your Dreams and Daily Execution.",
-    subheadline: "Stop letting your best ideas die in the noise of daily life. NotionBrain is the single-page alignment engine that transforms mental chaos into a clear, navigable path to success.",
+    subheadline: "A single page Notion system designed to align your life pillars, goals, and tasks. Stop being overwhelmed and start achieving with strategic clarity.",
     primaryCta: "Reclaim My Focus Now",
     primaryCtaUrl: "https://santisuhe.gumroad.com/l/cnobk",
     secondaryCta: "How Alignment Works",
     secondaryCtaUrl: "#features",
     features: [
+      "Lifetime Access — Pay Once, Yours Forever",
       "Vertical Alignment System",
-      "Zero-Friction Design",
-      "Lifetime Access"
+      "Zero-Friction Design"
     ],
     image: {
       src: "https://images.pexels.com/photos/5053849/pexels-photo-5053849.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
@@ -60,15 +60,15 @@ export const siteContent = {
       },
       {
         title: "Step 1: Anchor Your Pillars",
-        description: "Define your core values and life pillars. This is your \"True North\" that filters out the noise."
+        description: "Finally define where you want to take your life. Set your Life Pillars — the core areas that matter most — so every decision has a clear 'True North' to answer to."
       },
       {
         title: "Step 2: Map Your Strategy",
-        description: "Translate your pillars into measurable OKRs and Projects. Turn \"someday\" into a visible roadmap."
+        description: "Capture every idea, task, and commitment without fear of forgetting. Your Inbox and Quick Capture clear your head instantly, so your brain can focus on creating, not remembering."
       },
       {
         title: "Step 3: Execute with Focus",
-        description: "Use the Daily Execution View to tackle only what matters today. Watch your dreams become your reality, one aligned task at a time."
+        description: "See with absolute certainty that what you're doing today is building the life you want tomorrow. Every task links up through Projects and OKRs to your highest values."
       }
     ]
   },
@@ -109,16 +109,16 @@ export const siteContent = {
       name: "NotionBrain: The Alignment Engine",
       description: "Everything you need in one powerful template",
       price: "$29",
-      period: "one-time payment",
+      period: "one-time · yours forever",
       badge: "Lifetime Access",
       cta: "Build My Second Brain Today",
       ctaUrl: "https://santisuhe.gumroad.com/l/cnobk",
       features: [
-        "One-Time Payment: No subscriptions, ever.",
-        "Lifetime Updates: Get every improvement for free.",
-        "Risk Reversal: Join hundreds who transformed their productivity.",
-        "The full Vertical Alignment hierarchy (Pillars -> OKRs -> Projects -> Tasks).",
-        "Optimized for Mobile, Tablet, and Desktop."
+        "💳 One Single Payment — No subscriptions, no renewals. Ever.",
+        "♾️ Lifetime Updates: Every future improvement, included for free.",
+        "🧠 The full Vertical Alignment hierarchy (Pillars → OKRs → Projects → Tasks).",
+        "📱 Optimized for Mobile, Tablet, and Desktop.",
+        "✅ Works with Notion Free — no paid account required."
       ]
     }
   },
