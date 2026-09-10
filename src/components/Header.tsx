@@ -29,7 +29,7 @@ const Header = () => {
         <div className="flex items-center justify-between">
           <div className="flex items-center space-x-2">
             <img 
-              src="/icon (1).png" 
+              src={`${import.meta.env.BASE_URL}icon (1).png`} 
               alt="NotionBrain Logo" 
               className="h-8 w-8"
             />

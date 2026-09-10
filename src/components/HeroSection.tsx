@@ -3,10 +3,10 @@ import { CheckCircle, ArrowRight, ChevronLeft, ChevronRight } from 'lucide-react
 import { siteContent } from '../content/siteContent';
 
 const CAROUSEL_IMAGES = [
-  { src: '/Cover.png', alt: 'NotionBrain - Main Dashboard Overview' },
-  { src: '/2.png', alt: 'NotionBrain - Life Pillars & Goal Tracking' },
-  { src: '/3.png', alt: 'NotionBrain - Calendar & Task Planning' },
-  { src: '/4.png', alt: 'NotionBrain - OKR Tracking & Execution View' },
+  { src: `${import.meta.env.BASE_URL}Cover.png`, alt: 'NotionBrain - Main Dashboard Overview' },
+  { src: `${import.meta.env.BASE_URL}2.png`, alt: 'NotionBrain - Life Pillars & Goal Tracking' },
+  { src: `${import.meta.env.BASE_URL}3.png`, alt: 'NotionBrain - Calendar & Task Planning' },
+  { src: `${import.meta.env.BASE_URL}4.png`, alt: 'NotionBrain - OKR Tracking & Execution View' },
 ];
 
 const AUTOPLAY_INTERVAL = 3500;

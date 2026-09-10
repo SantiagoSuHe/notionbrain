@@ -74,7 +74,7 @@ const Footer = () => {
           <div className="mb-8 md:mb-0">
             <div className="flex items-center space-x-2 mb-4">
               <img 
-                src="/icon (1).png" 
+                src={`${import.meta.env.BASE_URL}icon (1).png`} 
                 alt="NotionBrain Logo" 
                 className="h-6 w-6"
               />

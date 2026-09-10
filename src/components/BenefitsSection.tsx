@@ -58,7 +58,7 @@ const BenefitsSection = () => {
               {/* Main image */}
               <div className="relative transform hover:scale-[1.02] transition-transform duration-500">
                 <img 
-                  src="/2.png"
+                  src={`${import.meta.env.BASE_URL}2.png`}
                   alt="NotionBrain Template - Calendar integration and planning capabilities"
                   className="w-full rounded-2xl"
                 />

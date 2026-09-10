@@ -92,7 +92,7 @@ export const siteContent = {
       }
     ],
     image: {
-      src: "/Cover.png",
+      src: `${import.meta.env.BASE_URL}Cover.png`,
       alt: "NotionBrain Template - Complete productivity system overview"
     },
     socialProof: {
@@ -132,7 +132,7 @@ export const siteContent = {
         content: "I finally see the connection between my daily grind and my long-term dreams. NotionBrain didn't just organize my tasks; it gave my time a purpose.",
         author: "Alex R.",
         role: "Creative Director",
-        image: "/sarah-martinez.png"
+        image: `${import.meta.env.BASE_URL}sarah-martinez.png`
       },
       {
         content: "The mental relief was instant. I stopped worrying about 'what's next' because the system already knows. I'm actually finishing projects now.",
